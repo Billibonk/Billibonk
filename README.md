@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aleksandr
 
 # Мое резюме
- - [Резюме на русском](https://drive.google.com/file/d/1iNhB9f_s_TuJtCkaYpEkD9iaI4csfmyR/view?usp=sharing)
+ - [Резюме](https://drive.google.com/file/d/1iNhB9f_s_TuJtCkaYpEkD9iaI4csfmyR/view?usp=sharing)
  - [CV](https://drive.google.com/file/d/1wRbrb_KJfpuuQOOASDUX3I5g2iQ36_OC/view?usp=sharing)
 # Проекты
 ## Анализ данных

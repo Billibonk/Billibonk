@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Aleksandr
 
 # Мое резюме
- - [Резюме](https://drive.google.com/file/d/1iNhB9f_s_TuJtCkaYpEkD9iaI4csfmyR/view?usp=sharing)
+ - [Резюме](https://drive.google.com/file/d/1oMOeN7Qa6voDf87eMahnSeCfXZ7-gFCP/view?usp=sharing)
  - [CV](https://drive.google.com/file/d/1wRbrb_KJfpuuQOOASDUX3I5g2iQ36_OC/view?usp=sharing)
+# Сертификаты:
+- Яндекс.Практикум: Специалист по Data Science [RUS] (https://drive.google.com/file/d/10RdQb5OMJKnYRL39WLOBcv5NNVyIAMsl/view?usp=sharing)/[EN](https://drive.google.com/file/d/1fsKCgzBDSwlriOmdEOvC8Bx73aAsgJrD/view?usp=sharing)
 # Проекты
 ## Анализ данных
 
